@@ -6,7 +6,7 @@ This folder contains the REST API's developed using Node JS and Express JS conne
 
 #### Result Management System
 
-This folder contains the front end part developed using Angular JS.
+This folder contains the front-end part developed using Angular JS.
 
 ### Snapshots
 
