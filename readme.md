@@ -1,4 +1,4 @@
-## Result Management System [Angular App]
+## GradeMate
 
 #### CRUD APP
 
